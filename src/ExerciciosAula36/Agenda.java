@@ -1,6 +1,7 @@
 package ExerciciosAula36;
 
 public class Agenda {
+
 	
 	private String nome;
 	private Contato[] contatos;
